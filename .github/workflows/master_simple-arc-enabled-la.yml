@@ -41,4 +41,4 @@ jobs:
         app-name: 'simple-arc-enabled-la'
         slot-name: 'production'
         package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3f0897f08fd54cbe9a1e6c8ef9282091 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_5af413370a1940c3b38ce7130893178f }}
